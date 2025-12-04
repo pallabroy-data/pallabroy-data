@@ -18,9 +18,9 @@ I am currently learning PySpark and developing end-to-end data engineering proje
 
 ## 📁 Featured Projects  
 
-### 🔹 SQL Case Studies  
-A collection of SQL projects using T-SQL focusing on joins, window functions, aggregations, and CTEs.  
-[View Project](your-link-here)
+### 🔹 Data Warehouse Project
+Building a moden data warehouse using T-SQL includes ETL process using medallion architecture 
+[View Project](https://github.com/pallabroy-data/sql-data-warehouse-project.git)
 
 ### 🔹 PySpark Learning Project (In Progress)  
 Hands-on practice with PySpark transformations, actions, DataFrame operations, and DAG execution.
