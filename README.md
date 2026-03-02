@@ -23,11 +23,13 @@ Building a moden data warehouse using T-SQL includes ETL process using medallion
 [View Project](https://github.com/pallabroy-data/sql-data-warehouse-project.git)
 
 ### 🔹 SQL-Based Exploratory Data Analysis: Data Engineer Job Market
-A structured SQL analytics project that explores the data engineer job market using real-world job posting data.
+A structured SQL analytics project that explores the data engineer job market using real-world job posting data. 
+
 [View Projects](https://github.com/pallabroy-data/SQL_Data_Engineering_Projects.git)
 
 ### 🔹Data Warehouse & Analytical Marts: End-to-End Production ETL
 A complete data engineering pipeline that ingests raw CSV datasets from Google Cloud Storage, transforms them into a structured star-schema data warehouse, and builds optimized analytical data marts for reporting and business intelligence.
+
 [View Projects](https://github.com/pallabroy-data/SQL_Data_Engineering_Projects.git)
 
 ### 🔹 PySpark Learning Project (In Progress)  
