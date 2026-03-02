@@ -7,7 +7,7 @@ I am currently learning PySpark and developing end-to-end data engineering proje
 ---
 
 ## 🔧 Technologies & Tools  
-✅ **Languages:** `Python`, `SQL`
+✅ **Languages:** `Python`, `SQL` 
 ✅ **Cloud:** `Azure` (ADF, ADLS, Databricks)  
 ✅ **Big Data:** `PySpark`, Spark SQL, Delta Lake  
 ✅ **Databases:** SQL Server  
